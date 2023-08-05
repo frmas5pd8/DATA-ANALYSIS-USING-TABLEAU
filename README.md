@@ -12,13 +12,18 @@ The owner of Websoft Technologies wants us to help them create a dashboard to tr
 * Table1: HR Data.xlsx Attrition, Business Travel, CF_age band, Department, Education Field etc.
 
 # Insights :
-1) Total number of Employee count.
-2) 
-3) 
-4) 
-5) 
-6)  
-
+1) Total number of Employee.
+2) Total number of Attrition.
+3) Total number of Attrition Rate.
+4) Total number of Active Employees.
+5) Total number of Avg. Age.
+6) Attrition By Gender
+7) Department Wise Attrition
+8) No. of Employee By Age Group
+9) Job Satisfaction Rating
+10) Education Field Wise Attrition
+11) Attrition Rate By Gender for Different Age Group
+    
 # Learning Outcomes:
 1) 
 2) 
