@@ -1,5 +1,7 @@
 # TABLEAU-HR-ANALYTICS-DASHBOARD
-The owner of Websoft Technologies wants us to help them create a dashboard to track and analyze their HR data through Tableau.
+
+# Project Ojective
+* WebSoft Techologies owner has requested our assistance in developing a Tableau-powered dashboard that will enable them to effectively monitor and analyze their HR-related information. The dashboard aims to provide insightful visualizations and data-driven insights, empowering the management to make informed decisions regarding their human resources.
 
 # Tools :
 * Tableau
